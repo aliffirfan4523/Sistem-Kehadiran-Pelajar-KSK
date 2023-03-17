@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_student_name" value="name:student_name;datatype:string" />
+	<infoitem key="UD_student_id" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:email;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_student_set" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:date;datatype:date,name:time;datatype:time,name:verified;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:nama;datatype:string,name:gred;datatype:int,name:no_matrik;datatype:string,name:nama_pelajar_id;datatype:int,name:email;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_attendance_list" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:date;datatype:date,name:time;datatype:time,name:verified;datatype:int" />
+	<infoitem key="UD_senarai_pelajar" value="name:nama;datatype:string,name:gred;datatype:int,name:no_matrik;datatype:string,name:nama_pelajar_id;datatype:int,name:email;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_student" value="name:nama;datatype:string,name:gred;datatype:int,name:no_matrik;datatype:string,name:nama_pelajar_id;datatype:int,name:email;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_Pelajar" value="name:nama;datatype:string,name:gred;datatype:int,name:no_matrik;datatype:string,name:nama_pelajar_id;datatype:int,name:email;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_nama_pelajar_matric_id" value="name:nama;datatype:string" />
+	<infoitem key="UD_tahun_matric_id" value="name:gred;datatype:int" />
+</info>

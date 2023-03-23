@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <info>
-	<infoitem key="UD_RekodKehadiran" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:date;datatype:date,name:time;datatype:time,name:verified;datatype:int" />
-	<infoitem key="UD_rekod_kehadiran" value="name:student_name;datatype:string,name:grade_level;datatype:int,name:date;datatype:date,name:time;datatype:time" />
-	<infoitem key="UD_show_selected_student" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:date;datatype:date,name:time;datatype:time,name:verified;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:student_id;datatype:int,name:student_name;datatype:string,name:grade_level;datatype:int,name:matric_id;datatype:string,name:date;datatype:date,name:time;datatype:time,name:verified;datatype:int" />
+	<infoitem key="UD_rekod_kehadiran" value="name:nama;datatype:string,name:tahun;datatype:int,name:masa;datatype:time,name:tarikh;datatype:date" />
+	<infoitem key="UD_kehadiran" value="name:kehadiran_id;datatype:int,name:nama;datatype:string,name:tahun;datatype:int,name:masa;datatype:time,name:tarikh;datatype:date" />
+	<infoitem key="UD_jumlah_kehadiran" value="name:kehadiran_id;datatype:int,name:nama;datatype:string,name:tahun;datatype:int,name:masa;datatype:time,name:tarikh;datatype:date" />
 </info>

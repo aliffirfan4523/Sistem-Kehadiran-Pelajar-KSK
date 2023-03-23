@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <info>
-	<infoitem key="MM_Form_Count" value="2" />
+	<infoitem key="MM_Form_Count" value="4" />
 	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
 	<infoitem key="MM_Form1" value="nama_pelajar" />
 	<infoitem key="MM_Session1" value="matric_no" />
-	<infoitem key="MM_Session_Count" value="1" />
+	<infoitem key="MM_Session_Count" value="2" />
 	<infoitem key="MM_Form2" value="filterdate" />
+	<infoitem key="MM_Form3" value="selected_student_name" />
+	<infoitem key="MM_Form4" value="today_date" />
+	<infoitem key="MM_Session2" value="current_date" />
 </info>

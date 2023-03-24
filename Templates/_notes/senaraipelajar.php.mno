@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_senarai_pelajar" value="name:pelajar_id;datatype:int,name:nama;datatype:string,name:tahun;datatype:int,name:no_matrik;datatype:string,name:kata_laluan;datatype:string" />
+</info>
